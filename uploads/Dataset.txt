@@ -1,0 +1,8 @@
+FIFA World Cup
+Name: FIFA Football World Cup
+Link: https://www.kaggle.com/datasets/piterfm/fifa-football-world-cup
+Description: Historical World Cup data including matches, goals, teams, winners, and hosts. Great for trends, winners analysis, goals per tournament.
+
+apsara@gmail.com
+
+07344062036
